@@ -1,0 +1,61 @@
+{
+  "gameVersion": "Asbestos",
+  "map": "Shikoku",
+  "year": 2022,
+  "released": true,
+  "monsters": [
+    {
+      "name": "Square Swarm",
+      "number": "001",
+      "type": "Abstract",
+      "powers": ["Radiation resistance", 
+        "Turning tiny", 
+        "Back issue confusion"]
+    },
+    {
+      "name": "Flappy Feesh",
+      "number": "002",
+      "type": "Water",
+      "powers": [
+        "Aggressive lane swimming",
+        "Fish punch",
+        "Buk buk bukawww"
+      ]
+    },
+    {
+      "name": "Turtaragus",
+      "number": "005",
+      "type": "Grass",
+      "powers": [
+        "Swim Away",
+        "Shell Shock",
+        "Turtle"
+      ]
+
+    },
+    {
+      "name": "Walswole",
+      "number": "003",
+      "type": "Damp",
+      "powers": [
+        "Tusky behavior",
+        "Fish sharing",
+        "Hearty handshake",
+        "Ice cream purchase",
+        "Gentle suplex"
+      ]
+    },
+    {
+      "name": "Baconnexx",
+      "number": "004",
+      "type": "Psychic",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
